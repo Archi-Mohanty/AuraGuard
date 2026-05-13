@@ -1,3 +1,4 @@
+#main file with firebase integrated
 from fastapi import FastAPI, HTTPException, Body
 from fastapi.middleware.cors import CORSMiddleware
 import cv2
